@@ -27,20 +27,19 @@ FinWise/
 │── data/                       # (Download datasets into this folder)
 ```
 # 📥 Download Required Files
-```
 Due to large file size limits, models and datasets are NOT included in the GitHub repo.
 Download everything from Google Drive:
-```
+
 🔗 Google Drive (Models + Datasets):
 ```
 https://drive.google.com/drive/folders/15wrTdKvCtFP-7P716CXwQ-WfoUJGaYe6?usp=drive_link
 ```
 After downloading:
-```
+
 Place all .pkl & .h5 model files inside the models/ folder
 Place all .csv dataset files inside the data/ folder
-```
-##🧠 ML Features & Model Details
+
+## ML Features & Model Details
 1️) Fraud Detection
 ```
 File: fraud_detection.py
@@ -88,12 +87,10 @@ Inputs + predictions for each model
 This is the only file you run to use the entire application.
 ```
 ## ⚙️ Requirements
-```
 All requirment in "requirement.text" file
-```
+
 ## Credits
 Developed as part of an academic project showcasing financial analytics using AI/ML, combining user-friendly UI with powerful prediction models.
 
 ## Contact
-
 Feel free to reach out if you want to suggest improvements, collaborate, or learn more about the project.
