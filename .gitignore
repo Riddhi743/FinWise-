@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.exe
+*.docx
+*.pptx
+*.csv
+models/
+tempCodeRunnerFile*
